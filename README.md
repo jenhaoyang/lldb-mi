@@ -22,7 +22,7 @@ You can also build lldb-mi against a LLDB that you compiled yourself. For that, 
 
 This example script should build LLVM and lldb-mi on an average UNIX system in the `~/buildspace` subfolder:
 ```
-cd
+cd ~
 mkdir buildspace
 
 # Download LLVM/Clang/LLDB and build them.
